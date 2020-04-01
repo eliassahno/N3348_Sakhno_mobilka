@@ -40,6 +40,6 @@ if __name__ == "__main__":
         print("Phone: ", per[2])
         print("Price call:", call)
         print("Price sms:", sms)
-    print(end="\n")
+
     print("Main call:", main_call)
     print("Main sms:", main_sms)
